@@ -9,7 +9,7 @@ Este projeto foi desenvolvido utilizando PHP, Laravel, Docker e MySQL para garan
 ### Passo a passo
 Clone Repositório
 ```sh
-git clone -b supportMVC https://github.com/kaikerochadev/SuporteMVC.git mvc-laravel
+git clone https://github.com/kaikerochadev/SuporteMVC.git
 ```
 ```sh
 cd app-laravel
